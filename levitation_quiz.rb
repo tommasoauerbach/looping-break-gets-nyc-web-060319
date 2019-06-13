@@ -6,3 +6,4 @@ counter = 0
 until spell == "Wingardium Leviosa"
 puts "You passed the quiz!"
 end
+end
